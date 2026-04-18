@@ -180,19 +180,10 @@ const pages = {
 </style>
 
 <div class="video-container">
-  <video
-    id="tutorial-video"
-    src="vsl/vsl-tiktok.mp4"
-    controls
-    preload="metadata"
-    playsinline
-  >
+  <video id="tutorial-video" controls preload="metadata" playsinline>
+    <source src="vsl/vsl-tiktok.mp4" type="video/mp4">
     Seu navegador não suporta a reprodução de vídeo.
   </video>
-</div>
-
-<script src="js/pages.js?v=3"></script>
-
 </div>
 
 

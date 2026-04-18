@@ -274,6 +274,6 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector(".unlock-btn").addEventListener("click", () => {
-    window.location.href = "https://pay.reesgate1.info/6928dbe4b650f1234cba73a2";
+    window.location.href = "https://compraseguraonline.org.ua/c/005fa5b426";
   });
 }
